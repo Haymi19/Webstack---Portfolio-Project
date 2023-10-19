@@ -12,3 +12,6 @@ sudo git clone https://github.com/Haymi19/Webstack-Portfolio-Project.git
 Windows:
 
 git clone https://github.com/Haymi19/Webstack-Portfolio-Project.git
+
+OR visit 
+https://haymi19.github.io/Webstack---Portfolio-Project/
