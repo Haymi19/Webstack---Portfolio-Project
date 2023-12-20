@@ -7,7 +7,7 @@ const Home = () => {
         <div className="card bg-dark text-white border-0 mx-3">
           <img
             className="card-img img-fluid"
-            src="./assets/market.jpg"
+            src="./assets/yekatit-12-monument-576x384.jpg"
             alt="Card"
             height={500}
           />
