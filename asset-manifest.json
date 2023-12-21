@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Webstack-Portfolio-Project/static/css/main.428b51e4.css",
-    "main.js": "/Webstack-Portfolio-Project/static/js/main.ef194f5b.js",
+    "main.js": "/Webstack-Portfolio-Project/static/js/main.bcbcca6e.js",
     "index.html": "/Webstack-Portfolio-Project/index.html",
     "main.428b51e4.css.map": "/Webstack-Portfolio-Project/static/css/main.428b51e4.css.map",
-    "main.ef194f5b.js.map": "/Webstack-Portfolio-Project/static/js/main.ef194f5b.js.map"
+    "main.bcbcca6e.js.map": "/Webstack-Portfolio-Project/static/js/main.bcbcca6e.js.map"
   },
   "entrypoints": [
     "static/css/main.428b51e4.css",
-    "static/js/main.ef194f5b.js"
+    "static/js/main.bcbcca6e.js"
   ]
 }
